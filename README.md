@@ -8,9 +8,9 @@ In this assignment, you will create a chat room on a single computer where you a
 
 4) The job of the server is to accept connections from clients, get their display name and passcode (in plaintext), verify that the passcode is correct and then allow clients into the chat room.  
 
-5)When any client sends a message, the display name is shown before the message, followed by a colon (:), and the message is delivered to all other current clients.   
+5) When any client sends a message, the display name is shown before the message, followed by a colon (:), and the message is delivered to all other current clients.   
 
-6)Clients can type any text message, or can type one of the following shortcut codes to display specific text to everyone:   
+6) Clients can type any text message, or can type one of the following shortcut codes to display specific text to everyone:   
 
     1- Type :) to display [feeling happy]  
     
